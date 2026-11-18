@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Java crash logs
+hs_err_pid*.log
+
+# Temporary files
+temp/
